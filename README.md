@@ -30,4 +30,4 @@ For more practice in GitHub including learning about branches, try this exercise
 Adding new nothing for the purposes of learning.
 * Forking
 * Editing read me
-* Commitment ::/: to changes!
+* Commitment :flushed: to changes!
